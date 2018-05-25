@@ -1,0 +1,44 @@
+body{
+    background-color: #F5DEB3;
+}
+.container{
+    max-width: 600px;
+}
+
+#display{
+    text-align: center;
+    font-family: 'Asap', sans-serif;
+    margin:25px;
+}
+
+#quote{
+    background-color: aliceblue;
+    font-family: 'Satisfy', cursive;
+    border: 2px solid black;
+    padding:20px 10px 10px 10px;
+    text-align: center;
+}
+#tweet{
+    float"left";
+    
+}
+#tweetButton{
+    background-color: aliceblue;
+}
+
+#quoteButton{
+    float:right;
+    background-color:aliceblue;
+}
+
+#footer{
+    background-color: darksalmon;
+    padding:8px;
+}
+
+#credits{
+    font-size: 12px;
+    float:right;
+    font-family: sans-serif;
+    margin-bottom:30px;
+}
